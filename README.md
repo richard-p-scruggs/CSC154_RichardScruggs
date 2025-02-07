@@ -1,3 +1,3 @@
 # CSC154_RichardScruggs
 
-Welcome to Branch1
+Welcome to Branch 1
